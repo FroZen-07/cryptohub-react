@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cryptohub-react/static/css/main.64856ff0.css",
+    "main.js": "/cryptohub-react/static/js/main.b7e0c4c5.js",
+    "static/js/787.15031444.chunk.js": "/cryptohub-react/static/js/787.15031444.chunk.js",
+    "index.html": "/cryptohub-react/index.html",
+    "main.64856ff0.css.map": "/cryptohub-react/static/css/main.64856ff0.css.map",
+    "main.b7e0c4c5.js.map": "/cryptohub-react/static/js/main.b7e0c4c5.js.map",
+    "787.15031444.chunk.js.map": "/cryptohub-react/static/js/787.15031444.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64856ff0.css",
+    "static/js/main.b7e0c4c5.js"
+  ]
+}
